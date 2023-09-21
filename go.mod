@@ -1,7 +1,7 @@
 module github.com/theFido/gocb-opentelemetry
 
 require (
-	github.com/couchbase/gocb/v2 v2.6.0
+	github.com/couchbase/gocb/v2 v2.6.3
 	github.com/stretchr/testify v1.8.4
 	go.opentelemetry.io/otel v1.18.0
 	go.opentelemetry.io/otel/metric v1.18.0
@@ -11,7 +11,7 @@ require (
 )
 
 require (
-	github.com/couchbase/gocbcore/v10 v10.2.0 // indirect
+	github.com/couchbase/gocbcore/v10 v10.2.3 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/go-logr/logr v1.2.4 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
