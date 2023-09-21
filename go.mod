@@ -1,4 +1,4 @@
-module github.com/couchbase/gocb-opentelemetry
+module github.com/theFido/gocb-opentelemetry
 
 require (
 	github.com/couchbase/gocb/v2 v2.6.0
